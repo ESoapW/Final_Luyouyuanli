@@ -1,3 +1,4 @@
+# 路由原理技术期末作业
 # 魏奕信 2016212128
 ## 简介
 该项目可以识别手的轮廓并标记出手指的交点，可判断出手指的数量。<br>
@@ -64,7 +65,14 @@ defects = cv2.convexityDefects(res, hull)
 <br>
 
 ## 结果演示
+![1](https://github.com/ESoapW/Final_Luyouyuanli/blob/master/pics/1.png?raw=true) 
+<br>
 
+![2](https://github.com/ESoapW/Final_Luyouyuanli/blob/master/pics/2.png?raw=true) 
+<br>
+
+![3](https://github.com/ESoapW/Final_Luyouyuanli/blob/master/pics/3.png?raw=true) 
+<br>
 
 ## 参考资料
 https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python/blob/master/README.md
